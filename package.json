@@ -13,13 +13,13 @@
     "sync"
   ],
   "bugs": {
-    "url": "https://github.com/jamesisaac/react-native-background-task/issues"
+    "url": "https://github.com/inthepocket/react-native-background-task/issues"
   },
   "license": "MIT",
   "main": "js/index",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jamesisaac/react-native-background-task.git"
+    "url": "https://github.com/inthepocket/react-native-background-task.git"
   },
   "scripts": {
     "flow": "flow || exit 0",
